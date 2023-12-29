@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/unisport.iml" filepath="$PROJECT_DIR$/.idea/unisport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unisports_be.iml" filepath="$PROJECT_DIR$/.idea/unisports_be.iml" />
     </modules>
   </component>
 </project>
